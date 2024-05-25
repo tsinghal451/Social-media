@@ -1,0 +1,42 @@
+.app-container{
+  display : flex;
+ 
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800vh;
+}
+
+.post-card{
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+
+.hastag{
+  margin: 10px 3px;
+}
+.reaction{
+  text-decoration: solid;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button-submit{
+  margin: 15px;
+}
+
+.form{
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+
+.form-group{
+  margin: 10px;
+}
+
+.create-post{
+  margin: 50px;
+}
